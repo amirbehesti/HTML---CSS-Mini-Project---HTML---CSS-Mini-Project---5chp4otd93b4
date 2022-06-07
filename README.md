@@ -1,6 +1,6 @@
 # html-css-project-boilerplate
 
-# **Learn Coding**
+# **Coffee Corner**
 
 ###### Home page
 <p align="center">

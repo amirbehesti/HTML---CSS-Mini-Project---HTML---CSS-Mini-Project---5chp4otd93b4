@@ -4,7 +4,7 @@
 
 ###### Home page
 <p align="center">
-  <img src="">
+  <img src="./assets/images/home.png">
 </p>
 
 **_It's a webpage for a restaurent. User can know different menus we provide,and can order online, can contact us & can make reservations to our live location._**
@@ -37,7 +37,7 @@ _It's currently at a very early development stage but hoping to get it available
 
 #### Workings
 ​
-- _Home page shows the overview of And some of quick links._
+- _Home page shows the overview of about us and some of quick links._
 - _Header nav bar takes to diffrent options._
 - _Contact us button which provides contact informations._
 #### Also works fine device with small screen
@@ -45,7 +45,7 @@ _It's currently at a very early development stage but hoping to get it available
 
 ###### Menu page(java)
 <p align="center">
-  <img src="">
+  <img src="./assets/images/menu.png">
 </p>
 
 #### Refernces
